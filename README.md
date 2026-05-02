@@ -23,6 +23,3 @@ Below are some of the languages and tools I am currently learning and using:
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=widztch&show_icons=false&theme=radical" alt="widztch's GitHub stats" />
-</p>
